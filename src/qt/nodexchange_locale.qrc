@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/nodexchange_bg.qm</file>
+        <file alias="ca">locale/nodexchange_ca.qm</file>
+        <file alias="cs">locale/nodexchange_cs.qm</file>
+        <file alias="da">locale/nodexchange_da.qm</file>
+        <file alias="de">locale/nodexchange_de.qm</file>
+        <file alias="en">locale/nodexchange_en.qm</file>
+        <file alias="en_US">locale/nodexchange_en_US.qm</file>
+        <file alias="es">locale/nodexchange_es.qm</file>
+        <file alias="fi">locale/nodexchange_fi.qm</file>
+        <file alias="fr_FR">locale/nodexchange_fr_FR.qm</file>
+        <file alias="hr">locale/nodexchange_hr.qm</file>
+        <file alias="it">locale/nodexchange_it.qm</file>
+        <file alias="ja">locale/nodexchange_ja.qm</file>
+        <file alias="ko_KR">locale/nodexchange_ko_KR.qm</file>
+        <file alias="nl">locale/nodexchange_nl.qm</file>
+        <file alias="pl">locale/nodexchange_pl.qm</file>
+        <file alias="pt">locale/nodexchange_pt.qm</file>
+        <file alias="pt_BR">locale/nodexchange_pt_BR.qm</file>
+        <file alias="ro_RO">locale/nodexchange_ro_RO.qm</file>
+        <file alias="ru">locale/nodexchange_ru.qm</file>
+        <file alias="sk">locale/nodexchange_sk.qm</file>
+        <file alias="sv">locale/nodexchange_sv.qm</file>
+        <file alias="tr">locale/nodexchange_tr.qm</file>
+        <file alias="uk">locale/nodexchange_uk.qm</file>
+        <file alias="zh_CN">locale/nodexchange_zh_CN.qm</file>
+        <file alias="zh_TW">locale/nodexchange_zh_TW.qm</file>
+    </qresource>
+</RCC>

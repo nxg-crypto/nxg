@@ -1,0 +1,26 @@
+# /etc/conf.d/nodexchanged: config file for /etc/init.d/nodexchanged
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/nodexchange/nodexchange.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/nodexchanged"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/nodexchanged.pid"
+
+# Where to write nodexchanged data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/nodexchanged"
+
+# User and group to own nodexchanged process
+#BITCOIND_USER="nodexchange"
+#BITCOIND_GROUP="nodexchange"
+
+# Path to nodexchanged executable
+#BITCOIND_BIN="/usr/bin/nodexchanged"
+
+# Nice value to run nodexchanged under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

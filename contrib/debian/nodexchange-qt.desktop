@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NodeXchange
+Comment=NodeXchange P2P Cryptocurrency
+Comment[fr]=NodeXchange, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NodeXchange, eşten eşe kriptografik sanal para birimi
+Exec=nodexchange-qt %u
+Terminal=false
+Type=Application
+Icon=nodexchange128
+MimeType=x-scheme-handler/nodexchange;
+Categories=Office;Finance;
